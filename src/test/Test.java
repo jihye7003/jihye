@@ -3,5 +3,7 @@ package test;
 public class Test {
 	public static void main(String[] args) {
 		System.out.println("test");
-	}//test중
+		
+		System.out.println("ho");
+	}//test以�
 }
